@@ -1,0 +1,13 @@
+bash.lua : fc0665c83570d78f68623a42363db54c94609bd4
+config.lua : 9bab330449724dcc922aaab116d2028170e6f7d7
+ui.lua : 36c1836ebd16d9c711003d90fc1769ede96386d9
+affs.lua : e065f8f85ef51d4bc4f4c7fc3ab9ce555a1eb71a
+inv.lua : 4555d82c1cef6cbbc73a06823d661795efd0bbf0
+oasis.lua : 301d3d24356f06ea388458720661786bbc3a0ee8
+prompt.lua : cca3241cdf8f8863f68f97f5aeef1910af62263a
+oasys.xml : 58c5b9fee922cb51673c480aadd5baecafc256f5
+defs.lua : 7aae8ea7f8b3abd8ccb54150cb024c84b7f9c0bd
+cdb.lua : 521c5deaaddc99850800efacac44f388c2844da0
+fs.lua : cf595f38e2adb645163a09375dfc2ba286ccb5a2
+can.lua : 3b8b2f44ee14d56810b074413ca1c56c2af6eed3
+_gmcp.lua : 212f7e60821fbc16c4cf47247a798b76130edb02
